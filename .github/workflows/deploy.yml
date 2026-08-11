@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  AZURE_WEBAPP_NAME: 'my-webapp'    
+  AZURE_WEBAPP_NAME: 'mywebapp1'    
   DOTNET_VERSION: '10.0.x'         
 
 jobs:
