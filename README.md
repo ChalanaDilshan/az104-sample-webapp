@@ -1,4 +1,4 @@
-# 🚀 Azure App Service CI/CD Demo (.NET 10)
+# Azure App Service CI/CD Demo (.NET 10)
 
 This is a sample .NET 10 Web Application created for practicing **AZ-104 (Microsoft Azure Administrator)** lab scenarios, specifically focused on deploying web applications using **GitHub Actions CI/CD workflows** to **Azure App Service**.
 
